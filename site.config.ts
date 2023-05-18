@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: `Subin Son's Portfolio`,
+  name: `손수빈 포트폴리오`,
   domain: 'portfolio.merryfraise.dev',
-  author: 'Subin Son',
+  author: '손수빈',
 
   // open graph metadata (optional)
-  description: 'Portfolio of Subin Son the FE Developer',
+  description: '프론트엔드 개발자 손수빈 포트폴리오',
 
   // social usernames (optional)
   twitter: '',
